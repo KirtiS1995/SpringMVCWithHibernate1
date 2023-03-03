@@ -9,9 +9,7 @@
 
 </head>
 
-<body>
-
-
+<body bgcolor = "grey">
 	<form action="saveEmployee" Method="post">
 
 		<table>
